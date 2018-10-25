@@ -1,0 +1,7 @@
+
+.navbar-nav {
+  flex-direction: row !important;
+}
+li a {
+  padding: 10px;
+}
