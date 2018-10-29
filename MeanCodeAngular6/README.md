@@ -1,3 +1,5 @@
+Mean Stack Project using with angular6 and mongodb and videos and list
+
 # MeanCodeAngular6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
