@@ -1,0 +1,12 @@
+.k-datetimepicker .k-link{
+    display: inline !important;
+  }
+  .k-dropdown-wrap .k-select, .k-numeric-wrap .k-select, .k-picker-wrap .k-select{
+    display:inline-flex !important;
+  }
+  .k-datetimepicker .k-select  {
+    display:inline-flex;
+  }
+.k-select {
+  display:inline-flex;
+}

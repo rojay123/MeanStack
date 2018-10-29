@@ -1,0 +1,33 @@
+
+[
+    {
+      "activities": {
+        "type": "Access",
+        "size": 20
+      }
+    },
+    {
+      "activities": {
+        "type": "Denied",
+        "size": 10
+      }
+    },
+    {
+      "activities": {
+        "type": "Inactive",
+        "size": 5
+      }
+    },
+    {
+      "activities": {
+        "type": "Invalid",
+        "size": 15
+      }
+    },
+    {
+      "activities": {
+        "type": "Invalid ",
+        "size": 6
+      }
+    }
+  ]
